@@ -1,0 +1,1 @@
+# Sum-All-Numbers-in-a-RangePassed-freeCodeCamp
